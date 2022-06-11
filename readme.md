@@ -1,14 +1,11 @@
-# Scotchgram
+# Build the Back-End For Your Own Instagram-style App with Cloudinary
 
-This is a demo tha backs a scotch article on using Cloudinary to build an image backend for your application
+Build an app using Cloudinary's backend.
 
-## Branches
- Each step has a branch to it, so you can checkout to the branch and preview the step's demo.
+## Requirements
 
- The master branch has the final example
+- Node and npm 
+- Cloudinary account
+- A MongoDB installation (either local or remote)
 
- ## Usage
 
- ```
-
- ```
